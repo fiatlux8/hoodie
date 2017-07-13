@@ -28,7 +28,7 @@
     "npmlog": "^4.0.0",
     "pouchdb-adapter-fs": "^2.0.5",
     "pouchdb-adapter-http": "^6.0.4",
-    "pouchdb-adapter-memory": "^6.0.4",
+    "pouchdb-adapter-memory": "^6.3.0",
     "pouchdb-browser": "^6.0.7",
     "pouchdb-core": "^6.0.4",
     "pouchdb-mapreduce": "^6.0.6",
