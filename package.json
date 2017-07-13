@@ -29,7 +29,7 @@
     "pouchdb-adapter-fs": "^2.0.5",
     "pouchdb-adapter-http": "^6.0.4",
     "pouchdb-adapter-memory": "^6.0.4",
-    "pouchdb-browser": "^6.0.7",
+    "pouchdb-browser": "^6.3.2",
     "pouchdb-core": "^6.0.4",
     "pouchdb-mapreduce": "^6.0.6",
     "rc": "^1.1.6",
