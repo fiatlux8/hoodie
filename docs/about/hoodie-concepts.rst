@@ -2,7 +2,7 @@ Hoodie's Concepts
 =====================================================================
 
 Hoodie was designed around a few core beliefs and concepts, and they
-explain a lot if the choices made in the code and the functionality.
+explain a lot on the choices made in the code and the functionality.
 They are:
 
 -  `Dreamcode <#dreamcode>`__
@@ -13,7 +13,7 @@ Dreamcode
 ~~~~~~~~~
 
 While designing Hoodie's API, we realised that we wanted to do more than
-simply expose some server code to the frontend. **We wanted to reduce
+to simply expose some server code to the frontend. **We wanted to reduce
 complexity, not move it around**. And to make something simple and
 intuitive, you can't start with the tech stack, you have to start with
 the humans that are going to use it. What would their dream API look
